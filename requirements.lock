@@ -23,13 +23,13 @@ mdurl==0.1.2
 pygments==2.17.2
     # via rich
 requests==2.31.0
-    # via assistant-cli
+    # via cli-assistant
 rich==13.7.1
-    # via assistant-cli
+    # via cli-assistant
 simple-term-menu==1.6.4
-    # via assistant-cli
+    # via cli-assistant
 typer==0.9.0
-    # via assistant-cli
+    # via cli-assistant
 typing-extensions==4.10.0
     # via typer
 urllib3==2.2.1
